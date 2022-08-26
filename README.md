@@ -1,7 +1,10 @@
 ## Oi eu sou o João, estudante de Ciência da Computação e Software Engineer Trainee.
 
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=raposojoaopaulo&show_icons=true&theme=nord)
-<img width="415" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raposojoaopaulo&layout=compact&theme=nord" alt="Top Langs" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raposojoaopaulo&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 ## Tecnologias que utilizo:
 
