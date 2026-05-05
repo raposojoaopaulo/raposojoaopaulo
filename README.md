@@ -2,13 +2,14 @@
   <img src="https://user-images.githubusercontent.com/93563283/188153425-d54022b7-6cd9-41f0-a1ae-111d320168fb.png" />
 </div>
 
-## Oi eu sou o João, desenvolvedor web full stack.
+## João, desenvolvedor web full stack.
+<a href="https://raposojoaopaulo.com">🌐 https://raposojoaopaulo.com</a>
+
 
 <div>
-  <a href="https://github.com/raposojoaopaulo">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=raposojoaopaulo&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raposojoaopaulo&layout=compact&langs_count=7&theme=city_lights"/>
-</div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raposojoaopaulo&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raposojoaopaulo&theme=github_dark" />
+</div
 
 <br>
 
