@@ -1,4 +1,4 @@
-<div align="center">
+x<div align="center">
   <img src="https://user-images.githubusercontent.com/93563283/188153425-d54022b7-6cd9-41f0-a1ae-111d320168fb.png" />
 </div>
 
@@ -9,7 +9,7 @@
 <div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raposojoaopaulo&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raposojoaopaulo&theme=github_dark" />
-</div
+</div>
 
 <br>
 
